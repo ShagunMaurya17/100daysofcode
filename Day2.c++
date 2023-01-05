@@ -267,9 +267,9 @@ int maximumPopulation(vector<vector<int>> &logs){
 }
 
 // Ques No 7. Find Pivot Index
-// Ques Blog - https://www.youtube.com/watch?v=dTmYy5yCSX8&ab_channel=codeExplainer
-// Ques Link - https://leetcode.com/problems/maximum-population-year/
-// Ques Solution - https://www.youtube.com/watch?v=dTmYy5yCSX8&ab_channel=codeExplainer
+// Ques Blog - https://www.youtube.com/watch?v=lAoQ3PfF2xw&t=5s&ab_channel=Pepcoding
+// Ques Link - https://leetcode.com/problems/find-pivot-index/
+// Ques Solution - https://www.youtube.com/watch?v=lAoQ3PfF2xw&t=5s&ab_channel=Pepcoding
 
 // Approach 1: (Most Optimised)
 // Running sum variables
