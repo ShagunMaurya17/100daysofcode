@@ -10,3 +10,14 @@ Ques 3. Majority Element (n/2)
 Ques 4. Move Zeroes
 Ques 5. Squares of a Sorted array 
 Ques 6. Merge Sorted Array
+
+DAY 2
+DATE 05.01.2023 THURSDAY
+
+Ques 1. Remove Duplicates in an SortedArray
+Ques 2. Remove Duplicates in an SortedArray II
+Ques 3. Find All Numbers Disappeared in an Array
+Ques 4. Intersection of Two Arrays
+Ques 5. Intersection of Two Arrays II
+Ques 6. Maximum Population Year
+Ques 7. Find Pivot Index

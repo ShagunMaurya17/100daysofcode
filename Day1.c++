@@ -5,7 +5,7 @@
 // Ques Link -  https://leetcode.com/problems/two-sum/
 // Ques Solution - https://www.youtube.com/watch?v=dRUpbt8vHpo&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&index=3&ab_channel=takeUforward
 
-// Apprach 1:
+// Approach 1:
 // Begin with Brute Force:
 // Time Complexity : O(N^2) Space Complexity : O(1)
 
@@ -335,3 +335,5 @@ void merge(vector<int> &nums1, int m, vector<int> &nums2, int n){
         nums1[k--]=nums2[j--];
     }
 }
+
+// Day 1 Completed +2hr Delay
