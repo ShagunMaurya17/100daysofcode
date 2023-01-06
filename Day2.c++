@@ -267,7 +267,7 @@ int maximumPopulation(vector<vector<int>> &logs){
 }
 
 // Ques No 7. Find Pivot Index
-// Ques Blog - https://www.youtube.com/watch?v=lAoQ3PfF2xw&t=5s&ab_channel=Pepcoding
+// Ques Blog - https://leetcode.com/problems/find-pivot-index/solutions/1216467/prefix-sum-property-easy-understanding-full-explanation/?orderBy=most_votes
 // Ques Link - https://leetcode.com/problems/find-pivot-index/
 // Ques Solution - https://www.youtube.com/watch?v=lAoQ3PfF2xw&t=5s&ab_channel=Pepcoding
 
