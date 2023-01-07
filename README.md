@@ -31,3 +31,13 @@ Ques 3. Find Winner on a TicTacToe Game
 Ques 4. Building Array from Permutation
 Ques 5. Third Maximum Number
 Ques 6. Valid Mountain Array
+
+DAY 4
+DATE 07.01.2023 SATURDAY
+
+Ques 1. Find Common Characters
+Ques 2. Sum of All Odd Length Subarrays
+Ques 3. Range Sum Query - Immutable
+Ques 4. Shuffle the Array
+Ques 5. Max Consecutive Ones
+Ques 6. Sort Array By Parity
