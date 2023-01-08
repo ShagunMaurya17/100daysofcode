@@ -186,7 +186,7 @@ int findMaxConsecutiveOnes(vector<int> &nums) {
     return maximum;
 }
 
-// Ques No 6. Max Consecutive Ones (striver sheet day 7 Problem 6)
+// Ques No 6. Sort Array By Parity
 // Ques Blog - https://leetcode.com/problems/sort-array-by-parity/solutions/3004352/c-odd-even-check/
 // Ques Link - https://leetcode.com/problems/sort-array-by-parity/
 // Ques Solution - https://www.youtube.com/watch?v=SNHeJl2h38I&ab_channel=AyushiSharma
@@ -224,3 +224,5 @@ vector<int> sortArrayByParity(vector<int> &nums){
     }
     return nums;
 }
+
+// Day 4 Completed Ontime

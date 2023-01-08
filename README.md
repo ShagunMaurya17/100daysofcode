@@ -41,3 +41,13 @@ Ques 3. Range Sum Query - Immutable
 Ques 4. Shuffle the Array
 Ques 5. Max Consecutive Ones
 Ques 6. Sort Array By Parity
+
+DAY 5
+DATE 08.01.2023 SUNDAY 
+
+Ques 1. Reverse Linked List
+Ques 2. Remove Linked List Elements
+Ques 3. Remove Duplicates from Sorted List
+Ques 4. Merge Two Sorted Lists
+Ques 5. Middle of the Linked List
+Ques 6. Palindrome Linked List
