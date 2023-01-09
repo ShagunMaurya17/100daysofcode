@@ -25,7 +25,7 @@ ListNode *reverseList(ListNode *head) {
 
 // Approach 2:
 // Three Pointer Approach(Recursive)
-// Time Complexity : O(N) Space Complexity : O(1)
+// Time Complexity : O(N) Space Complexity : O(1) RSS(O(N))
 
 ListNode *reverseList(ListNode * &head) {
     if(head==NULL || head->next == NULL){
@@ -38,7 +38,7 @@ ListNode *reverseList(ListNode * &head) {
 }
 
 // Approach 3: (Most Optimised)
-// Two Pointer Approach(Recursive)
+// Two Pointer Approach(Iterative)
 // Time Complexity : O(N) Space Complexity : O(1)
 
 ListNode *reverseList(ListNode *&head) {
@@ -273,7 +273,7 @@ bool isPalindrome(ListNode *head) {
 
 // Approach 2: (Most Optimised)
 // half reversal
-// Time Complexity : O(N/2+N/2+N/2) Space Complexity : O(N)
+// Time Complexity : O(N/2+N/2+N/2) Space Complexity : O(1)
 
 ListNode* Reverse(ListNode* &head){
     if(head==NULL) return NULL;

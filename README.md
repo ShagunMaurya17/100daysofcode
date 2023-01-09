@@ -51,3 +51,14 @@ Ques 3. Remove Duplicates from Sorted List
 Ques 4. Merge Two Sorted Lists
 Ques 5. Middle of the Linked List
 Ques 6. Palindrome Linked List
+
+DAY 6
+DATE 09.01.2023 MONDAY
+
+Ques 1. Intersection of Two Linked Lists
+Ques 2. Linked List Cycle
+Ques 3. Valid Parentheses
+Ques 4. Implement Queue using Stacks
+Ques 5. Backspace String Compare
+Ques 6. Next Greater Element I
+Ques 7. Next Greater Element II
