@@ -62,3 +62,14 @@ Ques 4. Implement Queue using Stacks
 Ques 5. Backspace String Compare
 Ques 6. Next Greater Element I
 Ques 7. Next Greater Element II
+
+DAY 7
+DATE 10.01.2023 TUESDAY
+
+Ques 1. Binary Tree Preorder Traversal
+Ques 2. Binary Tree Inorder Traversal
+Ques 3. Binary Tree Postorder Traversal
+Ques 4. Maximum Depth of Binary Tree
+Ques 5. Invert Binary Tree
+Ques 6. Symmetric Tree
+Ques 7. Same Tree
