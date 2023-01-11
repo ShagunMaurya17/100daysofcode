@@ -73,3 +73,12 @@ Ques 4. Maximum Depth of Binary Tree
 Ques 5. Invert Binary Tree
 Ques 6. Symmetric Tree
 Ques 7. Same Tree
+
+DAY 8
+DATE 11.01.2023 WEDNESDAY
+
+Ques 1. Minimum Time to Collect All Apples in a Tree
+Ques 2. Subtree of Another Tree
+Ques 3. Diameter of Binary Tree
+Ques 4. Balanced Binary Tree
+Ques 5. Merge Two Binary Trees
