@@ -38,8 +38,8 @@ int minTime(int n, vector<vector<int>> &edges, vector<bool> &hasApple){
 // Ques Solution - https://www.youtube.com/watch?v=lrJaof9s4o0&ab_channel=HelloWorld
 
 // Approach 1: (Most Optimised)
-// Simple PreOrder Traversal (Recursive)
-// Time Complexity : O(N) Space Complexity : O(1) RSS(O(N))
+// Simple inOrder Traversal (Recursive)
+// Time Complexity : O(M+N) Space Complexity : O(1) RSS(O(M+N))
 
 bool ans=false;
 bool match(TreeNode* root, TreeNode* subRoot){
@@ -142,3 +142,5 @@ TreeNode *mergeTrees(TreeNode *root1, TreeNode *root2){
     root1->right = mergeTrees(root1->right,root2->right);
     return root1;
 }
+
+// Day 8 Completed Ontime

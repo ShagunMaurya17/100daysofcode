@@ -82,3 +82,12 @@ Ques 2. Subtree of Another Tree
 Ques 3. Diameter of Binary Tree
 Ques 4. Balanced Binary Tree
 Ques 5. Merge Two Binary Trees
+
+DAY 9
+DATE 12.01.2023 THRUSDAY
+
+Ques 1. Path Sum
+Ques 2. Binary Tree Paths
+Ques 3. Cousins in Binary Tree
+Ques 4. Convert Sorted Array to Binary Search Tree
+Ques 5. Range Sum of BST
