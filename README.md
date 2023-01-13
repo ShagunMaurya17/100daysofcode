@@ -91,3 +91,13 @@ Ques 2. Binary Tree Paths
 Ques 3. Cousins in Binary Tree
 Ques 4. Convert Sorted Array to Binary Search Tree
 Ques 5. Range Sum of BST
+
+DAY 10
+DATE 13.01.2023 FRIDAY
+
+Ques 1. Valid Palindrome
+Ques 2. Valid Palindrome II
+Ques 3. Longest Palindrome
+Ques 4. Longest Common Prefix
+Ques 5. Valid Anagram
+Ques 6. First Unique Character in a String
