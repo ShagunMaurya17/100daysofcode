@@ -101,3 +101,13 @@ Ques 3. Longest Palindrome
 Ques 4. Longest Common Prefix
 Ques 5. Valid Anagram
 Ques 6. First Unique Character in a String
+
+DAY 11
+DATE 14.01.2023 SATURDAY
+
+Ques 1. Is Subsequence
+Ques 2. Reverse String
+Ques 3. Reverse String II
+Ques 4. Reverse Words in a String III
+Ques 5. Isomorphic Strings
+Ques 6. Remove All Adjacent Duplicates In String
