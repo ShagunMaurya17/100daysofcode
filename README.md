@@ -111,3 +111,13 @@ Ques 3. Reverse String II
 Ques 4. Reverse Words in a String III
 Ques 5. Isomorphic Strings
 Ques 6. Remove All Adjacent Duplicates In String
+
+DAY 12
+DATE 15.01.2023 SUNDAY
+
+Ques 1. Defanging an IP Address
+Ques 2. Reverse Only Letters
+Ques 3. Reverse Vowels of a String
+Ques 4. Length of Last Word
+Ques 5. Add Strings
+Ques 6. Fizz Buzz

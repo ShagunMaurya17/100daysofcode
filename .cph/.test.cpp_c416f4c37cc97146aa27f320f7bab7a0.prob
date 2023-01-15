@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\Shagun Maurya\\Desktop\\DSA 100Days\\test.cpp","tests":[{"id":1673708482528,"input":"4\n1 1\n999999999 1000000000\n8 26\n1 999999999","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Shagun Maurya\\Desktop\\DSA 100Days\\test.cpp","group":"local","local":true}
