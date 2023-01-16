@@ -121,3 +121,13 @@ Ques 3. Reverse Vowels of a String
 Ques 4. Length of Last Word
 Ques 5. Add Strings
 Ques 6. Fizz Buzz
+
+DAY 13
+DATE 16.01.2023 MONDAY
+
+Ques 1. Roman to Integer
+Ques 2. Palindrome Number
+Ques 3. Happy Number
+Ques 4. Power of Two
+Ques 5. Sqrt(x)
+Ques 6. Plus One
