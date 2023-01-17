@@ -131,3 +131,12 @@ Ques 3. Happy Number
 Ques 4. Power of Two
 Ques 5. Sqrt(x)
 Ques 6. Plus One
+
+DAY 14
+DATE 17.01.2023 TUESDAY
+
+Ques 1. Count Odd Numbers in an Interval Range
+Ques 2. Rectangle Overlap
+Ques 3. Add Digits
+Ques 4. Maximum Product of Three Numbers
+Ques 5. Excel Sheet Column Number
