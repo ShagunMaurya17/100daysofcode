@@ -140,3 +140,14 @@ Ques 2. Rectangle Overlap
 Ques 3. Add Digits
 Ques 4. Maximum Product of Three Numbers
 Ques 5. Excel Sheet Column Number
+
+DAY 15
+DATE 18.01.2023 WEDNESDAY
+
+Ques 1. Add Binary
+Ques 2. Counting Bits
+Ques 3. Number of 1 Bits
+Ques 4. Single Number
+Ques 5. Missing Number
+Ques 6. Reverse Bits
+Ques 7. Hamming Distance
