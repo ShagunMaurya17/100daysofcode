@@ -151,3 +151,32 @@ Ques 4. Single Number
 Ques 5. Missing Number
 Ques 6. Reverse Bits
 Ques 7. Hamming Distance
+
+DAY 16
+DATE 19.01.2023 THRUSDAY
+
+Ques 1. Binary Search
+Ques 2. Search Insert Position
+Ques 3. First Bad Version
+Ques 4. Valid Perfect Square
+Ques 5. Kth Missing Positive Number
+Ques 6. Kth Largest Element in a Stream
+
+DAY 17
+DATE 20.01.2023 FRIDAY
+
+Ques 1. Design HashMap
+Ques 2. Ransom Note
+Ques 3. Contains Duplicate
+Ques 4. Contains Duplicate II
+Ques 5. Jewels and Stones
+Ques 6. Unique Number of Occurrences
+
+DAY 18
+DATE 21.01.2023 SATURDAY
+
+Ques 1. Word Pattern
+Ques 2. Number of Good Pairs
+Ques 3. Flood Fill
+Ques 4. Island Perimeter
+Ques 5. Find if Path Exists in Graph
