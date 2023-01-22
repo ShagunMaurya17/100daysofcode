@@ -180,3 +180,13 @@ Ques 2. Number of Good Pairs
 Ques 3. Flood Fill
 Ques 4. Island Perimeter
 Ques 5. Find if Path Exists in Graph
+
+DAY 19
+DATE 22.01.2023 SUNDAY
+
+Ques 1. Fibonacci Number
+Ques 2. Min Cost Climbing Stairs
+Ques 3. Climbing Stairs
+Ques 4. Pascal's Triangle
+Ques 5. Can Place Flowers
+Ques 6. Maximum Units on a Truck

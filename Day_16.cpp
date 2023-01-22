@@ -165,8 +165,24 @@ bool isPerfectSquare(int num){
 // Ques No. 5 Kth Missing Positive Number
 // Ques Blog - https://leetcode.com/problems/kth-missing-positive-number/solutions/780764/c-o-n-and-o-logn-solutions-with-explanation/
 // Ques Link - https://leetcode.com/problems/kth-missing-positive-number/
-// Ques Solution - https://www.youtube.com/watch?v=hO8UUoQy9Sw
+// Ques Solution - https://www.youtube.com/watch?v=tcjjJBJw1rM&ab_channel=CodingDecoded
 
 // Approach 1:
 // Brute Force
 // Time Complexity : O(N) Space Complexity : O(1)
+
+int findKthPositive(vector<int> &arr, int k){
+    for(int i =0;i<arr.size();++i){
+        if(arr[i]<=k)k++;
+        else break;
+    }
+    return k;
+}
+
+// Approach 2: (Most Optimised)
+// Iterative Approach (binary search)
+// Time Complexity : O(LogN) Space Complexity : O(1)
+
+int findKthPositive(vector<int> &arr, int k){
+    
+}
