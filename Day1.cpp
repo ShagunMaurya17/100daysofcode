@@ -259,7 +259,7 @@ vector<int> sortedSquares(vector<int> &nums){
     return result;
 }
 
-// Ques No. 5 Merge Sorted Array
+// Ques No. 6 Merge Sorted Array
 // Ques Blog - https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/
 // Ques Blog2 - https://leetcode.com/problems/merge-sorted-array/solutions/600243/c-solution-o-m-n-solution-with-detailed-explanation/?orderBy=most_votes
 // Ques Link - https://leetcode.com/problems/merge-sorted-array/
@@ -317,7 +317,7 @@ void merge(vector<int> &nums1, int m, vector<int> &nums2, int n){
         }
     }
 }
-// Approach 2:
+// Approach 3: (Most Optimised)
 // Three Pointer
 // Time Complexity : O(N+M) Space Complexity : O(1)
 

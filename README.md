@@ -190,3 +190,35 @@ Ques 3. Climbing Stairs
 Ques 4. Pascal's Triangle
 Ques 5. Can Place Flowers
 Ques 6. Maximum Units on a Truck
+
+DAY 20
+DATE 23.01.2023 MONDAY
+
+Ques 1. 3Sum
+Ques 2. 3Sum Closest
+Ques 3. Non-decreasing Array
+Ques 4. Product of Array Except Self
+
+DAY 21
+DATE 24.01.2023 TUESDAY
+
+Ques 1. Merge Intervals
+Ques 2. Insert Interval
+Ques 3. Non-overlapping Intervals
+Ques 4. Interval List Intersections
+
+DAY 22
+DATE 25.01.2023 WEDNESDAY
+
+Ques 1. Container With Most Water
+Ques 2. Sort Colors
+Ques 3. Rotate Array
+Ques 4. Contiguous Array
+
+DAY 23
+DATE 26.01.2023 THRUSDAY
+
+Ques 1. Subarray Sum Equals K
+Ques 2. Shortest Unsorted Continuous Subarray
+Ques 3. Maximum Points You Can Obtain from Cards
+Ques 4. Max Consecutive Ones III
