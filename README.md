@@ -222,3 +222,12 @@ Ques 1. Subarray Sum Equals K
 Ques 2. Shortest Unsorted Continuous Subarray
 Ques 3. Maximum Points You Can Obtain from Cards
 Ques 4. Max Consecutive Ones III
+
+DAY 24
+DATE 27.01.2023 FRIDAY
+
+Ques 1. Permutation in String
+Ques 2. Wiggle Sort II
+Ques 3. Max Chunks To Make Sorted
+Ques 4. H-Index II
+Ques 5. H-Index 
